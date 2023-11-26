@@ -4,7 +4,7 @@
 #include <fstream>
 #include <sstream>
 #include <iomanip>
-#include <string>
+#include <string> 
 
 #include "../include/Global.h"
 #include "../include/Memory.h"
